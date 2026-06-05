@@ -184,20 +184,17 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 **Lê Nhật Nhân**
 - Student ID: 2224802010860
-- Contact: [Your Email/Contact Info]
+- Contact: lenhatnhan999@gmail.com
 
 ## 🙏 Acknowledgments
 
 - Flutter team for the amazing framework
 - The open-source community for the great packages used in this project
 
-## 📞 Support
-
-If you find any bugs or have suggestions, please [open an issue](https://github.com/yourusername/tdmu-notes/issues) on GitHub.
 
 ## 🎓 Educational Purpose
 
-This project was created as part of coursework at TDMU (Tôn Đức Thắng University).
+This project was created as part of coursework at TDMU (Thủ Dầu Một University).
 
 ---
 
